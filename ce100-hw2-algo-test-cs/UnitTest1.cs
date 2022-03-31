@@ -429,7 +429,7 @@ namespace ce100_hw2_algo_test_cs
         public void CountingSortTestMethod1()
         {
             int[] array = new int[] { 1500, 136, 2345, 981, 121, 877, 323, 467 };
-            int[] expected = new int[] { 121, 136, 323, 467, 877, 981, 1500, 2345};
+            int[] expected = new int[] { 121, 136, 323, 467, 877, 981, 1500, 2345 };
 
             Class1.countingsort(array);
             CollectionAssert.AreEqual(expected, array);

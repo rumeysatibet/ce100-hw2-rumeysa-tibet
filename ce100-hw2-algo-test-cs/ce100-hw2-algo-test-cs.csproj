@@ -5,7 +5,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{18B9CE88-54AF-4F80-8693-79B0DC0F521C}</ProjectGuid>
+    <ProjectGuid>{1C5F08D8-64BC-414F-99D4-B5A292D220B6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ce100_hw2_algo_test_cs</RootNamespace>
